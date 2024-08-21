@@ -1,8 +1,11 @@
 <p align="center">
-  <img src="https://lixxie.xyz/images/Icons/web_badge2.gif" alt="website_badge">
+  <a href="https://lixxie.xyz">
+    <img src="https://lixxie.xyz/images/Icons/web_badge2.gif" alt="website_badge">
+  </a>
 </p>
 
 # Hello, I'm Lixxie
+
 **_I'm just another dude on GitHub._**
 
 #### If you want to learn more about me or reach out, you can [visit my website](https://lixxie.xyz).
