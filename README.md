@@ -12,4 +12,4 @@
 
 I create free and open-source tools on my GitHub. I'm dedicated to making my tools easy to use and set up. If you want to learn more about that process, you can [visit my blog](https://lixxie.xyz/blog) (PSA: Not set up yet).
 
-If you'd like to support me, consider becoming a [GitHub Sponsor](https://github.com/sponsors/your-username).
+If you'd like to support me, consider becoming a [GitHub Sponsor](https://github.com/sponsors/lixvinity).
