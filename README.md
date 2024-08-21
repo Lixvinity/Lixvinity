@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @Lixvinity
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning python, unreal engine, html/css
-- 💞️ I’m looking to collaborate on python tools
-- 📫 How to reach me [socials on my website](https://lixxie.xyz/)
-- ⚡ Fun fact: im not so fun
+<p align="center">
+  <img src="https://lixxie.xyz/images/Icons/web_badge2.gif" alt="website_badge">
+</p>
 
-<!---
-Lixvinity/Lixvinity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hello, I'm Lixxie
+**_I'm just another dude on GitHub._**
+
+#### If you want to learn more about me or reach out, you can [visit my website](https://lixxie.xyz).
+
+I create free and open-source tools on my GitHub. I'm dedicated to making my tools easy to use and set up. If you want to learn more about that process, you can [visit my blog](https://lixxie.xyz/blog) (PSA: Not set up yet).
+
+If you'd like to support me, consider becoming a [GitHub Sponsor](https://github.com/sponsors/your-username).
