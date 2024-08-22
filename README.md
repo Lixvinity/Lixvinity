@@ -15,4 +15,3 @@ I create free and open-source tools on my GitHub. I'm dedicated to making my too
 If you'd like to support me, consider becoming a [GitHub Sponsor](https://github.com/sponsors/lixvinity).
 
 
- <iframe src="https://lixxie.xyz/" title="W3Schools Free Online Web Tutorials"></iframe> 
